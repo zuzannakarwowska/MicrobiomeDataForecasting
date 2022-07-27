@@ -1,6 +1,6 @@
 # MicrobiomeDataForecasting
 
-This repo contains code used during developement of th project 'PREDICTIONG MICROBIOME CHANGE IN TIME AND UPON PERTURBATION' funded by Polish National Science Centre Grant.
+This repo contains code used during development of th project 'PREDICTIONG MICROBIOME CHANGE IN TIME AND UPON PERTURBATION' funded by Polish National Science Centre Grant.
 
 Bacteria in the gut microbiome form a dynamic milieu due to their interactions with the host, the environment, and most importantly with each other. However, most of the research on the gut microbiome uses cross-sectional data to find differences in microbiome composition between groups. This ignores the importance of the dynamic changes in the microbiome and makes the analysis of causality and dynamic interactions between bacteria impossible. 
 
